@@ -1,0 +1,1 @@
+Proyecto de lectura de matriculas utilizando Roboflow y YOLO
