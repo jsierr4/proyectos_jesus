@@ -1,0 +1,9 @@
+path: /home/ciabd10/Descargas/curso-especializacion-big-data-ia/Modelos-Inteligencia-Artificial/Actividad_5.1/dataset
+train: images/train
+val: images/val   # o val/images, según tu carpeta real
+#test: test/images
+
+names:
+  0: Papel
+  1: Piedra
+  2: Tijera
